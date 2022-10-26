@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666794899 source:c:\users\tom\desktop\tup 1er cuatrimestre\programación 1\clase1\primerparcialcanelas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
